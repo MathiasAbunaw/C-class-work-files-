@@ -3,7 +3,7 @@
 // File: HW02.cpp
 // Assignment: HW2
 // Purpose: this file contains the main function of the
-//   program which will encrypt user message,
+//   program which will encrypt user message
 //   then convert your message to secrete unreadable message
 
 
